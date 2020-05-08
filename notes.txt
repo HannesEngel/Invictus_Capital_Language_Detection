@@ -1,0 +1,6 @@
+# Notes
+
+1. The text file that the tester needs to save as 'lang_data_test.csv' needs to include at least a single text of each
+of the three languages (English, Afrikaans and Nederlands). There is a bug in the python_file_RUN_ME.python_file_RUN_ME.py 
+file that needs to be addressed that prevents an accuracy measure from being returned when there are two
+or fewer languages in the 'lang_data_test.csv' file.
