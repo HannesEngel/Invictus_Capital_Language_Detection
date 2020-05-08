@@ -28,6 +28,7 @@ Please follow the steps below to help you set up the environment in which the mo
     - Create a virtual environment (optional and recommended) by running the following code in your terminal/command line:
         
         For Ubuntu/MacOS:
+            
             virtualenv --system-site-packages -p python3 ./venv
             source ./venv/bin/activate  # sh, bash, ksh, or zsh
             pip install --upgrade pip
@@ -35,6 +36,7 @@ Please follow the steps below to help you set up the environment in which the mo
             deactivate  # don't exit until you're done using TensorFlow
         
         For Windows:
+            
             virtualenv --system-site-packages -p python3 ./venv
             .\venv\Scripts\activate
             pip install --upgrade pip
@@ -44,10 +46,12 @@ Please follow the steps below to help you set up the environment in which the mo
     - Install the TensorFlow pip package
         
         Through the virtual environment:
+            
             pip install --upgrade tensorflow
             python -c "import tensorflow as tf;print(tf.reduce_sum(tf.random.normal([1000, 1000])))"
         
         System install:
+            
             pip3 install --user --upgrade tensorflow  # install in $HOME
             python3 -c "import tensorflow as tf; print(tf.reduce_sum(tf.random.normal([1000, 1000])))"
 
