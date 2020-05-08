@@ -57,23 +57,23 @@ Please follow the steps below to help you set up the environment in which the mo
 
     - Install the Keras library
     
-        pip install keras
+            pip install keras
 
     - Install the h5py library # this is to load the completed model
 
-        pip install h5py
+            pip install h5py
 
     - Install Pandas
     
-        pip install pandas
+            pip install pandas
 
     - Install Sklearn
     
-        pip install sklearn
+            pip install sklearn
 
     - Install Numpy
     
-        pip install numpy
+            pip install numpy
 
 2. Please download the following files and save them in a single folder:
     
