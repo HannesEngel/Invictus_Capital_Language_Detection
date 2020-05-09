@@ -1,5 +1,5 @@
 # Invictus_Capital_Language_Detection
-This repo contains two projects.  The first project documents the work done to create a language detection model based on text input. The second project relates to the creation of a single-player pong game using Reinforcement Learning
+This repo contains the code, data and report detailing the work done to create a language detection model based on text input.
 
 # Instructions (the instructions are included in the instructions.txt file for ease of use)
 Please follow the steps below to help you set up the environment in which the model will be tested.
