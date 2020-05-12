@@ -90,6 +90,11 @@ Please follow the steps below to help you set up the environment in which the mo
     FILE WITH YOUR OWN TO SEE HOW THE MODEL PERFORMS ON A SEPARATE SET. PLEASE SEE THE 'notes.txt', #1,
     FOR COMMENTS ON THIS.
     
+    The text file that the tester needs to save as 'lang_data_test.csv' needs to include at least a single text of each
+    of the three languages (English, Afrikaans and Nederlands). There is a bug in the
+    python_file_RUN_ME.py file that needs to be addressed that prevents an accuracy measure from
+    being returned when there are two or fewer languages in the 'lang_data_test.csv' file.
+    
 3. CD (change directory) into the directory where the above files are located and run the following
 code in your terminal/command line: python3 python_file_RUN_ME.py 
 
