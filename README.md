@@ -42,7 +42,9 @@ Please follow the steps below to help you set up the environment in which the mo
             pip install --upgrade pip
             pip list  # show packages installed within the virtual environment
             deactivate  # don't exit until you're done using TensorFlow
-
+            
+    Inside the virtual environment, do the following:
+    
     - Install the TensorFlow pip package
         
         Through the virtual environment:
