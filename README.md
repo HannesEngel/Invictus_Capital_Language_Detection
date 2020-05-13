@@ -104,8 +104,8 @@ can interpret. The file then
 
 ** Other related files included in this Github repo include:
     
-    - LanguageDetection.ipynb: This is the Jupyter Notebook in which the initial exploratory data analysis, 
-    feature engineering, model fitting and testing was done.
-    - Language Detection Report.pdf: This the the report detailing the work done to clean the data and 
-    to create, train and test the model  
-    - notes.txt: This file contains additional notes and potential pitfalls. I tried addressing them in the report as well.
+- LanguageDetection.ipynb: This is the Jupyter Notebook in which the initial exploratory data analysis, 
+feature engineering, model fitting and testing was done.
+- Language Detection Report.pdf: This the the report detailing the work done to clean the data and 
+to create, train and test the model  
+- notes.txt: This file contains additional notes and potential pitfalls. I tried addressing them in the report as well.
