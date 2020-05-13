@@ -7,9 +7,9 @@ Please follow the steps below to help you set up the environment in which the mo
 1. System requirements
     - Check if your Python environment is already configured by running each of the following lines of code in your terminal/command line:
         
-        python3 --version
-        pip3 --version
-        virtualenv --version
+            python3 --version
+            pip3 --version
+            virtualenv --version
 
         If these packages are already installed, skip to the next step.
         Otherwise, install Python, the pip package manager, and Virtualenv using the Homebrew package manager.
