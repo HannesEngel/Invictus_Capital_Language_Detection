@@ -89,8 +89,7 @@ Please follow the steps below to help you set up the environment in which the mo
     IS NAMED 'lang_data_test.csv'. THIS FILE NEEDS TO BE IN EXACTLY THE SAME FORMAT AS THE 'lang_data.csv' CSV 
     FILE PROVIDED TO ME FOR TRAINING THE MODEL ON. I HAVE PROVIDED THE TEST SET ON WHICH MY MODEL WAS TESTED.
     IT HAS BEEN NAMED 'lang_data_test.csv' AND IS INCLUDED IN THIS GITHUB FOLDER. FEEL FREE TO REPLACE THIS
-    FILE WITH YOUR OWN TO SEE HOW THE MODEL PERFORMS ON A SEPARATE SET. PLEASE SEE THE 'notes.txt', #1,
-    FOR COMMENTS ON THIS.
+    FILE WITH YOUR OWN TO SEE HOW THE MODEL PERFORMS ON A SEPARATE SET.
     
     The text file that the tester needs to save as 'lang_data_test.csv' needs to include at least a single text of each
     of the three languages (English, Afrikaans and Nederlands). There is a bug in the
@@ -100,8 +99,8 @@ Please follow the steps below to help you set up the environment in which the mo
 3. CD (change directory) into the directory where the above files are located and run the following
 code in your terminal/command line: python3 python_file_RUN_ME.py 
 
-    This step runs the Python file that first converts the test data into a format that the saved model
-    can interpret. The file then 
+This step runs the Python file that first converts the test data into a format that the saved model
+can interpret. The file then 
 
 ** Other related files included in this Github repo include:
     
