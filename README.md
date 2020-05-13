@@ -77,13 +77,14 @@ Please follow the steps below to help you set up the environment in which the mo
     
             pip install numpy
 
-2. Please download the following files and save them in a single folder:
+2. Please download the following files and save them in THE SAME folder:
     
     - python_file_RUN_ME.py # main Python file that needs to be run
     - model.h5 # contains model parameters
     - model.json # contains the model architecture
     - lang_data_test.csv # (this is the file provided by the reviewer on which the model will be tested - see below *)
     - vocab.txt # this file contains the library used for training the model that's required for predictions
+
 
     * PLEASE MAKE SURE THAT THE CSV FILE CONTAINING THE TEXT ON WHICH THE PREDICTIONS WILL BE MADE
     IS NAMED 'lang_data_test.csv'. THIS FILE NEEDS TO BE IN EXACTLY THE SAME FORMAT AS THE 'lang_data.csv' CSV 
