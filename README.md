@@ -85,8 +85,7 @@ Please follow the steps below to help you set up the environment in which the mo
     - lang_data_test.csv # (this is the file provided by the reviewer on which the model will be tested - see below *)
     - vocab.txt # this file contains the library used for training the model that's required for predictions
 
-
-    * PLEASE MAKE SURE THAT THE CSV FILE CONTAINING THE TEXT ON WHICH THE PREDICTIONS WILL BE MADE
+    PLEASE MAKE SURE THAT THE CSV FILE CONTAINING THE TEXT ON WHICH THE PREDICTIONS WILL BE MADE
     IS NAMED 'lang_data_test.csv'. THIS FILE NEEDS TO BE IN EXACTLY THE SAME FORMAT AS THE 'lang_data.csv' CSV 
     FILE PROVIDED TO ME FOR TRAINING THE MODEL ON. I HAVE PROVIDED THE TEST SET ON WHICH MY MODEL WAS TESTED.
     IT HAS BEEN NAMED 'lang_data_test.csv' AND IS INCLUDED IN THIS GITHUB FOLDER. FEEL FREE TO REPLACE THIS
